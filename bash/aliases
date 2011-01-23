@@ -1,9 +1,17 @@
+# Basic process stuff
 alias tu='top -o cpu' # cpu
 alias tm='top -o vsize' # memory
 
+# Git
 alias g="git status"
+alias gst="git status"
+alias gc="git commit -v"
+alias gca="git commit -v -a"
+alias gtka="gtk --all&"
 
+# Emacs
 alias cemacs="open -a Emacs.app"
 
+# Misc
 alias lf="ls -F"
 alias ll="ls -al"
