@@ -1,0 +1,9 @@
+alias tu='top -o cpu' # cpu
+alias tm='top -o vsize' # memory
+
+alias g="git status"
+
+alias cemacs="open -a Emacs.app"
+
+alias lf="ls -F"
+alias ll="ls -al"

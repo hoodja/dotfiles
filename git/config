@@ -1,0 +1,7 @@
+[user]
+	name = Kevin Beam
+	email = kwbeam@gmail.com
+[color]
+	ui = auto
+[apply]
+	whitespace = nowarn

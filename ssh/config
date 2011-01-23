@@ -1,0 +1,4 @@
+Host feynman
+  HostName lambda42.com
+  User kevin
+  Port 33333
